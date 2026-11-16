@@ -1,0 +1,473 @@
+{
+ "data": {
+  "education": [
+   {
+    "raw": "Bachelors of Design (Architecture) Bachelors of Design (Architecture) Northbridge University Melbourne, Australia 20232025 High school and VCE High school and VCE Hartwell Grammar School Melbourne, Australia 20172022 Earlier education Earlier education Seaview International School / Harbourside Residential College / Fresh Taco Co. Primary School Penang, Malaysia 20062016",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Bachelors of Design (Architecture) Bachelors of Design (Architecture) Northbridge University Melbourne, Australia 20232025",
+       "parsed": {
+        "location": {
+         "raw": "Melbourne, Australia",
+         "parsed": null
+        },
+        "institution": {
+         "raw": "Northbridge University",
+         "parsed": "Northbridge University"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": null,
+        "qualificationName": {
+         "raw": "Bachelors of Design (Architecture)",
+         "parsed": "Bachelors of Design (Architecture)"
+        },
+        "startDate": {
+         "raw": "2023",
+         "parsed": "2023-01-01"
+        },
+        "educationType": {
+         "raw": "Bachelors of Design (Architecture)",
+         "parsed": "Bachelor"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "2025",
+         "parsed": "2025-01-01"
+        }
+       }
+      },
+      {
+       "raw": "High school and VCE High school and VCE Hartwell Grammar School Melbourne, Australia 20172022",
+       "parsed": {
+        "location": {
+         "raw": "Melbourne, Australia",
+         "parsed": null
+        },
+        "institution": {
+         "raw": "Hartwell Grammar School",
+         "parsed": "Hartwell Grammar School"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": null,
+        "qualificationName": {
+         "raw": "High school and VCE",
+         "parsed": "High school and VCE"
+        },
+        "startDate": {
+         "raw": "2017",
+         "parsed": "2017-01-01"
+        },
+        "educationType": {
+         "raw": "High school and VCE",
+         "parsed": "High School"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "2022",
+         "parsed": "2022-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Earlier education Earlier education Seaview International School / Harbourside Residential College / Fresh Taco Co. Primary School Penang, Malaysia 20062016",
+       "parsed": {
+        "location": {
+         "raw": "Penang, Malaysia",
+         "parsed": null
+        },
+        "institution": {
+         "raw": "Seaview International School / Harbourside Residential College / Fresh Taco Co. Primary School",
+         "parsed": "Seaview International School / Harbourside Residential College / Fresh Taco Co. Primary School"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": null,
+        "qualificationName": {
+         "raw": "Earlier education",
+         "parsed": "Earlier education"
+        },
+        "startDate": {
+         "raw": "2006",
+         "parsed": "2006-01-01"
+        },
+        "educationType": {
+         "raw": "Earlier education",
+         "parsed": "Other"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "2016",
+         "parsed": "2016-01-01"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "technicalSkills": null,
+  "softSkills": [
+   {
+    "raw": "Conceptual thinking",
+    "parsed": "Conceptual thinking"
+   },
+   {
+    "raw": "Effective communication",
+    "parsed": "Effective communication"
+   },
+   {
+    "raw": "Hard - worker",
+    "parsed": "Hard - worker"
+   },
+   {
+    "raw": "Eager to learn",
+    "parsed": "Eager to learn"
+   },
+   {
+    "raw": "Flexible team player",
+    "parsed": "Flexible team player"
+   },
+   {
+    "raw": "Positive and friendly attitude",
+    "parsed": "Positive and friendly attitude"
+   }
+  ],
+  "softwareAndTools": [
+   {
+    "raw": "Rhino",
+    "parsed": "Rhino"
+   },
+   {
+    "raw": "Revit",
+    "parsed": "Revit"
+   },
+   {
+    "raw": "Adobe illustrator",
+    "parsed": "Adobe illustrator"
+   },
+   {
+    "raw": "Adobe photoshop",
+    "parsed": "Adobe photoshop"
+   },
+   {
+    "raw": "Adobe indesign",
+    "parsed": "Adobe indesign"
+   },
+   {
+    "raw": "Enscape",
+    "parsed": "Enscape"
+   },
+   {
+    "raw": "VRay",
+    "parsed": "VRay"
+   }
+  ],
+  "fullName": {
+   "raw": "Jean-Michel Basquiat",
+   "parsed": "Jean-Michel Basquiat"
+  },
+  "experience": [
+   {
+    "raw": "Studio program intern experience Studio program intern experience Studio Arcadia Architects Milan, Italy, 2025 2025 Intensive studio brief for two weeks Worked with an international team of architecture graduates Collaborated with not only Studio Arcadia but other international architecture firms Work well under immense pressure Hospitality FOH Hospitality FOH Residential College / Fresh Taco Co. Melbourne, Australia, 20212024 Excellent time management Ability to maintain calmness in fast paced environment Learnt to be a team player Work experience student Work experience student Linden & Moss Architects Melbourne, Australia, 2021 Shadowed a lead architect Attended and contributed to meetings Created moodboards and collated precedents Went on construction sites Boarding house captain Boarding house captain Community and service captain Community and service captain 1st in inter-school maths competition 1st in inter-school maths competition Grade 5 AMEB piano Grade 5 AMEB piano Student volunteering (construction) Student volunteering (construction) Global Builders Volunteer Program Siem Reap, Cambodia, 2019 Aided and took part in the construction of local schools Learnt about importance of socially responsive design and decisions Had positive interactions with the local communities there",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Studio program intern experience Studio program intern experience Studio Arcadia Architects Milan, Italy, 2025 2025 Intensive studio brief for two weeks Worked with an international team of architecture graduates Collaborated with not only Studio Arcadia but other international architecture firms Work well under immense pressure",
+       "parsed": {
+        "organisation": {
+         "raw": "Studio Arcadia Architects",
+         "parsed": "Studio Arcadia Architects"
+        },
+        "experienceType": {
+         "raw": "Studio program intern experience",
+         "parsed": "Internship"
+        },
+        "location": {
+         "raw": "Milan, Italy, 2025",
+         "parsed": null
+        },
+        "roleTitle": {
+         "raw": "Studio program intern experience",
+         "parsed": "Studio program intern experience"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": [
+         {
+          "raw": "Intensive studio brief for two weeks",
+          "parsed": "Intensive studio brief for two weeks"
+         },
+         {
+          "raw": "Worked with an international team of architecture graduates",
+          "parsed": "Worked with an international team of architecture graduates"
+         },
+         {
+          "raw": "Collaborated with not only Studio Arcadia but other international architecture firms",
+          "parsed": "Collaborated with not only Studio Arcadia but other international architecture firms"
+         },
+         {
+          "raw": "Work well under immense pressure",
+          "parsed": "Work well under immense pressure"
+         }
+        ],
+        "startDate": {
+         "raw": "2025",
+         "parsed": "2025-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Hospitality FOH Hospitality FOH Residential College / Fresh Taco Co. Melbourne, Australia, 20212024 Excellent time management Ability to maintain calmness in fast paced environment Learnt to be a team player",
+       "parsed": {
+        "organisation": {
+         "raw": "Residential College / Fresh Taco Co.",
+         "parsed": "Residential College / Fresh Taco Co."
+        },
+        "experienceType": {
+         "raw": "Hospitality FOH",
+         "parsed": "Part-time"
+        },
+        "location": {
+         "raw": "Melbourne, Australia,",
+         "parsed": null
+        },
+        "roleTitle": {
+         "raw": "Hospitality FOH",
+         "parsed": "Hospitality FOH"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "2024",
+         "parsed": "2024-01-01"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Excellent time management",
+          "parsed": "Excellent time management"
+         },
+         {
+          "raw": "Ability to maintain calmness in fast paced environment",
+          "parsed": "Ability to maintain calmness in fast paced environment"
+         },
+         {
+          "raw": "Learnt to be a team player",
+          "parsed": "Learnt to be a team player"
+         }
+        ],
+        "startDate": {
+         "raw": "2021",
+         "parsed": "2021-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Work experience student Work experience student Linden & Moss Architects Melbourne, Australia, 2021 Shadowed a lead architect Attended and contributed to meetings Created moodboards and collated precedents Went on construction sites",
+       "parsed": {
+        "organisation": {
+         "raw": "Linden & Moss Architects",
+         "parsed": "Linden & Moss Architects"
+        },
+        "experienceType": {
+         "raw": "Work experience student",
+         "parsed": "Internship"
+        },
+        "location": {
+         "raw": "Melbourne, Australia,",
+         "parsed": null
+        },
+        "roleTitle": {
+         "raw": "Work experience student",
+         "parsed": "Work experience student"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": [
+         {
+          "raw": "Shadowed a lead architect",
+          "parsed": "Shadowed a lead architect"
+         },
+         {
+          "raw": "Attended and contributed to meetings",
+          "parsed": "Attended and contributed to meetings"
+         },
+         {
+          "raw": "Created moodboards and collated precedents",
+          "parsed": "Created moodboards and collated precedents"
+         },
+         {
+          "raw": "Went on construction sites",
+          "parsed": "Went on construction sites"
+         }
+        ],
+        "startDate": {
+         "raw": "2021",
+         "parsed": "2021-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Boarding house captain Boarding house captain",
+       "parsed": {
+        "organisation": null,
+        "experienceType": {
+         "raw": "Boarding house captain",
+         "parsed": "Leadership"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Boarding house captain",
+         "parsed": "Boarding house captain"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": null,
+        "startDate": null
+       }
+      },
+      {
+       "raw": "Student volunteering (construction) Student volunteering (construction) Global Builders Volunteer Program Siem Reap, Cambodia, 2019 Aided and took part in the construction of local schools Learnt about importance of socially responsive design and decisions Had positive interactions with the local communities there",
+       "parsed": {
+        "organisation": {
+         "raw": "Global Builders Volunteer Program",
+         "parsed": "Global Builders Volunteer Program"
+        },
+        "experienceType": {
+         "raw": "Student volunteering (construction)",
+         "parsed": "Volunteering"
+        },
+        "location": {
+         "raw": "Siem Reap, Cambodia,",
+         "parsed": null
+        },
+        "roleTitle": {
+         "raw": "Student volunteering (construction)",
+         "parsed": "Student volunteering (construction)"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": [
+         {
+          "raw": "Aided and took part in the construction of local schools",
+          "parsed": "Aided and took part in the construction of local schools"
+         },
+         {
+          "raw": "Learnt about importance of socially responsive design and decisions",
+          "parsed": "Learnt about importance of socially responsive design and decisions"
+         },
+         {
+          "raw": "Had positive interactions with the local communities there",
+          "parsed": "Had positive interactions with the local communities there"
+         }
+        ],
+        "startDate": {
+         "raw": "2019",
+         "parsed": "2019-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Community and service captain Community and service captain",
+       "parsed": {
+        "organisation": null,
+        "experienceType": {
+         "raw": "Community and service captain",
+         "parsed": "Leadership"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Community and service captain",
+         "parsed": "Community and service captain"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": null,
+        "startDate": null
+       }
+      },
+      {
+       "raw": "1st in inter-school maths competition 1st in inter-school maths competition",
+       "parsed": {
+        "organisation": null,
+        "experienceType": {
+         "raw": "1st in inter-school maths competition",
+         "parsed": "Extracurricular"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "1st in inter-school maths competition",
+         "parsed": "1st in inter-school maths competition"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": null,
+        "startDate": null
+       }
+      },
+      {
+       "raw": "Grade 5 AMEB piano Grade 5 AMEB piano",
+       "parsed": {
+        "organisation": null,
+        "experienceType": {
+         "raw": "Grade 5 AMEB piano",
+         "parsed": "Extracurricular"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Grade 5 AMEB piano",
+         "parsed": "Grade 5 AMEB piano"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": null,
+        "startDate": null
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "languages": [
+   {
+    "raw": "English",
+    "parsed": "English"
+   },
+   {
+    "raw": "Malay and Indonesian",
+    "parsed": "Malay and Indonesian"
+   },
+   {
+    "raw": "Chinese",
+    "parsed": "Chinese"
+   }
+  ],
+  "certifications": [
+   {
+    "raw": "Bachelors degree of design (H2B)",
+    "parsed": "Bachelors degree of design (H2B)"
+   },
+   {
+    "raw": "VCE (96.4 ATAR)",
+    "parsed": "VCE (96.4 ATAR)"
+   },
+   {
+    "raw": "RSA and RSF",
+    "parsed": "RSA and RSF"
+   },
+   {
+    "raw": "Working with children's check",
+    "parsed": "Working with children's check"
+   },
+   {
+    "raw": "Safe at work",
+    "parsed": "Safe at work"
+   }
+  ],
+  "rawText": "ARCHITECTURAL PORTFOLIO Jean-Michel Basquiat 2023-2025 | Selected works JEAN-MICHEL BASQUIAT I am a recent graduate with a Bachelor of Design majoring in architecture (B.arch) from Northbridge University. Throughout my studies I have developed a strong interest in creating socially driven designs that are responsive to the respective sites whilst upholding environmental considerations. In the representation and communication of these designs I have developed skills both digitally and analogically which I aim to transition to practical and technical expertise of a junior architect with an optimistic desire to learn. I am committed to being a positive contribution to the team by maintaining efficiency through excellent communication, organisation, and problem solving skills. CONTACT Email: [email removed] Mobile: [phone removed] Linkedin: [handle removed] Instagram: [handle removed] Bachelors of Design (Architecture) Northbridge University Melbourne, Australia 2023-2025 High school and VCE Hartwell Grammar School Melbourne, Australia 2017-2022 Earlier education Seaview International School / Harbourside Primary School Penang, Malaysia 2006-2016 CERTIFICATIONS Bachelors degree of design (H2B) VCE (96.4 ATAR) RSA and RSF Working with children's check Safe at work LEADERSHIP AND AWARDS Boarding house captain Community and service captain 1st in inter-school maths competition Grade 5 AMEB piano LANGUAGES English Malay and Indonesian Chinese EXPERIENCES Studio program intern experience Studio Arcadia Architects Milan, Italy, 2025 - Intensive studio brief for two weeks - Worked with an international team of architecture graduates - Collaborated with not only Studio Arcadia but other international architecture firms - Work well under immense pressure Hospitality FOH Residential College / Fresh Taco Co. Melbourne, Australia, 2021-2024 - Excellent time management - Ability to maintain calmness in fast paced environment - Learnt to be a team player Work experience student Linden & Moss Architects Melbourne, Australia, 2021 - Shadowed a lead architect - Attended and contributed to meetings - Created moodboards and collated precedents - Went on construction sites Student volunteering (construction) Global Builders Volunteer Program Siem Reap, Cambodia, 2019 - Aided and took part in the construction of local schools - Learnt about importance of socially responsive design and decisions - Had positive interactions with the local communities there SKILLS Conceptual thinking Effective communication Hard - worker Eager to learn Flexible team player Positive and friendly attitude SOFTWARE Rhino Revit Adobe illustrator Adobe photoshop Adobe indesign o Enscape VRay REFERENCES Alex Morgan Milan studio coordinator Email: [email removed] Mobile: [phone removed] Sam Taylor Linden & Moss lead architect Email: [email removed] Mobile: [phone removed] Chris Walker Studio Arcadia Senior Designer Email: [email removed] Mobile: [phone removed] Pat Reid Family friend Mobile: [phone removed]"
+ }
+}

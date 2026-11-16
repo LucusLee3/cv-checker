@@ -1,0 +1,467 @@
+{
+ "data": {
+  "education": [
+   {
+    "raw": "Northbridge University 2023 2026 Bachelor of Commerce Bachelor of Commerce Finance and Economics - Mathematics Pathway WAM: 80.512 (First Class Honours) Hartwell Grammar School 2017 2022 ATAR: 97.85 ATAR: 97.85 ATAR: 97.85",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Northbridge University 2023 2026 Bachelor of Commerce Bachelor of Commerce Finance and Economics - Mathematics Pathway WAM: 80.512 (First Class Honours)",
+       "parsed": {
+        "location": null,
+        "institution": {
+         "raw": "Northbridge University",
+         "parsed": "Northbridge University"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": {
+         "raw": "WAM: 80.512 (First Class Honours)",
+         "parsed": "WAM: 80.512 (First Class Honours)"
+        },
+        "qualificationName": {
+         "raw": "Bachelor of Commerce",
+         "parsed": "Bachelor of Commerce"
+        },
+        "startDate": {
+         "raw": "2023",
+         "parsed": "2023-01-01"
+        },
+        "educationType": {
+         "raw": "Bachelor of Commerce",
+         "parsed": "Bachelor"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": {
+         "raw": "Finance and Economics - Mathematics Pathway",
+         "parsed": "Finance and Economics - Mathematics Pathway"
+        },
+        "endDate": {
+         "raw": "2026",
+         "parsed": "2026-01-01"
+        }
+       }
+      },
+      {
+       "raw": "Hartwell Grammar School 2017 2022 ATAR: 97.85 ATAR: 97.85 ATAR: 97.85",
+       "parsed": {
+        "location": null,
+        "institution": {
+         "raw": "Hartwell Grammar School",
+         "parsed": "Hartwell Grammar School"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": {
+         "raw": "ATAR: 97.85",
+         "parsed": "ATAR: 97.85"
+        },
+        "qualificationName": {
+         "raw": "ATAR: 97.85",
+         "parsed": "ATAR: 97.85"
+        },
+        "startDate": {
+         "raw": "2017",
+         "parsed": "2017-01-01"
+        },
+        "educationType": {
+         "raw": "ATAR: 97.85",
+         "parsed": "High School"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "2022",
+         "parsed": "2022-01-01"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "technicalSkills": [
+   {
+    "raw": "Python,",
+    "parsed": "Python,"
+   },
+   {
+    "raw": "R,",
+    "parsed": "R,"
+   },
+   {
+    "raw": "Microsoft 365",
+    "parsed": "Microsoft 365"
+   }
+  ],
+  "softSkills": null,
+  "softwareAndTools": [
+   {
+    "raw": "Python,",
+    "parsed": "Python,"
+   },
+   {
+    "raw": "R,",
+    "parsed": "R,"
+   },
+   {
+    "raw": "Microsoft 365",
+    "parsed": "Microsoft 365"
+   }
+  ],
+  "fullName": {
+   "raw": "Bruce Wayne",
+   "parsed": "Bruce Wayne"
+  },
+  "experience": [
+   {
+    "raw": "Meridian Advisory Incoming Graduate Consultant Incoming Graduate Consultant Feb 2027 Ridgeline Capital Investment Intern Investment Intern Mar 2026 May 2026 Produced an equity write-up on a multinational consumer goods company, analysing product category growth, revenue seasonality, and the regulatory environment, and examining P&L, capital structure, and valuation metrics. Conducted comparative research on early-stage mineral exploration companies, assessing discovery progress, resource grade, flow rates, and resource estimates against limited and inconsistent public information. Drafted investor materials, including investment summaries and a presentation outlining an IPO participation opportunity. Prepared daily trade blotters and updated the portfolio position statement, recording executed transactions, updating market prices, and monitoring daily and monthly fund performance. State Treasury Office Budget Strategy Intern Budget Strategy Intern Dec 2025 Feb 2026 Conducted comparative analyses of Allied Health Professional (AHP) enterprise agreements across states and the private sector, comparing wages and allowances, and built a classification framework to inform upcoming wage negotiations. Modelled AHP workforce composition by profession, examining cross-sector and interstate workforce movements, and assessed overtime expenditure to determine financial exposure. Analysed CPI and WPI movements to assess inflation impact, presenting findings on workforce demands and allowance restructuring opportunities to executive directors. Lim & Carter Chartered Accountants Intern Intern Jul 2025 Nov 2025 Prepared individual tax returns and assisted with SMSF tax planning. Platewise Co-Founder Co-Founder Feb 2026 Co-developed a food discovery app using Cursor AI with two friends, currently in early-stage user testing. Campus Consulting Society Head of External Relations Head of External Relations Nov 2025 Led a five-person team to grow client sourcing from four to six consulting engagements per semester through outreach, scoping meetings, and proposal development. Founded an alumni initiative connecting committee members with past members for coffee chats and career guidance. Campus Consulting Society Project Consultant Project Consultant Jul 2025 Nov 2025 Modelled Social Return on Investment (SROI) for a youth advocacy organisation to quantify the social impact of their programs, designing monetary metrics and formulas, adjusting for drop-off, deadweight loss, and discounting. Developed data collection processes and identified key risks and costs, culminating in a client presentation. Awarded Best Individual Speaker and Best Project by industry judges. Eastbrook Business School Semester Exchange Student Semester Exchange Student Sep 2024 Dec 2024 Completed an LBO model for a SaaS business, including quality of earnings adjustments, a tiered subscription revenue build, and multi-tranche debt structuring. Corner Bean Cafe Front of House Staff Front of House Staff Aug 2023 Mar 2024 Brightpath Tuition Centre Maths Tutor Maths Tutor Apr 2021 Aug 2021",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Meridian Advisory Incoming Graduate Consultant Incoming Graduate Consultant Feb 2027",
+       "parsed": {
+        "organisation": {
+         "raw": "Meridian Advisory",
+         "parsed": "Meridian Advisory"
+        },
+        "experienceType": {
+         "raw": "Incoming Graduate Consultant",
+         "parsed": "Graduate Program"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Incoming Graduate Consultant",
+         "parsed": "Incoming Graduate Consultant"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": null,
+        "startDate": {
+         "raw": "Feb 2027",
+         "parsed": "2027-02-28"
+        }
+       }
+      },
+      {
+       "raw": "Ridgeline Capital Investment Intern Investment Intern Mar 2026 May 2026 Produced an equity write-up on a multinational consumer goods company, analysing product category growth, revenue seasonality, and the regulatory environment, and examining P&L, capital structure, and valuation metrics. Conducted comparative research on early-stage mineral exploration companies, assessing discovery progress, resource grade, flow rates, and resource estimates against limited and inconsistent public information. Drafted investor materials, including investment summaries and a presentation outlining an IPO participation opportunity. Prepared daily trade blotters and updated the portfolio position statement, recording executed transactions, updating market prices, and monitoring daily and monthly fund performance.",
+       "parsed": {
+        "organisation": {
+         "raw": "Ridgeline Capital",
+         "parsed": "Ridgeline Capital"
+        },
+        "experienceType": {
+         "raw": "Investment Intern",
+         "parsed": "Internship"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Investment Intern",
+         "parsed": "Investment Intern"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "May 2026",
+         "parsed": "2026-05-31"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Produced an equity write-up on a multinational consumer goods company, analysing product category growth, revenue seasonality, and the regulatory environment, and examining P&L, capital structure, and valuation metrics.",
+          "parsed": "Produced an equity write-up on a multinational consumer goods company, analysing product category growth, revenue seasonality, and the regulatory environment, and examining P&L, capital structure, and valuation metrics."
+         },
+         {
+          "raw": "Conducted comparative research on early-stage mineral exploration companies, assessing discovery progress, resource grade, flow rates, and resource estimates against limited and inconsistent public information.",
+          "parsed": "Conducted comparative research on early-stage mineral exploration companies, assessing discovery progress, resource grade, flow rates, and resource estimates against limited and inconsistent public information."
+         },
+         {
+          "raw": "Drafted investor materials, including investment summaries and a presentation outlining an IPO participation opportunity.",
+          "parsed": "Drafted investor materials, including investment summaries and a presentation outlining an IPO participation opportunity."
+         },
+         {
+          "raw": "Prepared daily trade blotters and updated the portfolio position statement, recording executed transactions, updating market prices, and monitoring daily and monthly fund performance.",
+          "parsed": "Prepared daily trade blotters and updated the portfolio position statement, recording executed transactions, updating market prices, and monitoring daily and monthly fund performance."
+         }
+        ],
+        "startDate": {
+         "raw": "Mar 2026",
+         "parsed": "2026-03-31"
+        }
+       }
+      },
+      {
+       "raw": "State Treasury Office Budget Strategy Intern Budget Strategy Intern Dec 2025 Feb 2026 Conducted comparative analyses of Allied Health Professional (AHP) enterprise agreements across states and the private sector, comparing wages and allowances, and built a classification framework to inform upcoming wage negotiations. Modelled AHP workforce composition by profession, examining cross-sector and interstate workforce movements, and assessed overtime expenditure to determine financial exposure. Analysed CPI and WPI movements to assess inflation impact, presenting findings on workforce demands and allowance restructuring opportunities to executive directors.",
+       "parsed": {
+        "organisation": {
+         "raw": "State Treasury Office",
+         "parsed": "State Treasury Office"
+        },
+        "experienceType": {
+         "raw": "Budget Strategy Intern",
+         "parsed": "Internship"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Budget Strategy Intern",
+         "parsed": "Budget Strategy Intern"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Feb 2026",
+         "parsed": "2026-02-28"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Conducted comparative analyses of Allied Health Professional (AHP) enterprise agreements across states and the private sector, comparing wages and allowances, and built a classification framework to inform upcoming wage negotiations.",
+          "parsed": "Conducted comparative analyses of Allied Health Professional (AHP) enterprise agreements across states and the private sector, comparing wages and allowances, and built a classification framework to inform upcoming wage negotiations."
+         },
+         {
+          "raw": "Modelled AHP workforce composition by profession, examining cross-sector and interstate workforce movements, and assessed overtime expenditure to determine financial exposure.",
+          "parsed": "Modelled AHP workforce composition by profession, examining cross-sector and interstate workforce movements, and assessed overtime expenditure to determine financial exposure."
+         },
+         {
+          "raw": "Analysed CPI and WPI movements to assess inflation impact, presenting findings on workforce demands and allowance restructuring opportunities to executive directors.",
+          "parsed": "Analysed CPI and WPI movements to assess inflation impact, presenting findings on workforce demands and allowance restructuring opportunities to executive directors."
+         }
+        ],
+        "startDate": {
+         "raw": "Dec 2025",
+         "parsed": "2025-12-31"
+        }
+       }
+      },
+      {
+       "raw": "Lim & Carter Chartered Accountants Intern Intern Jul 2025 Nov 2025 Prepared individual tax returns and assisted with SMSF tax planning.",
+       "parsed": {
+        "organisation": {
+         "raw": "Lim & Carter Chartered Accountants",
+         "parsed": "Lim & Carter Chartered Accountants"
+        },
+        "experienceType": {
+         "raw": "Intern",
+         "parsed": "Internship"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Intern",
+         "parsed": "Intern"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Nov 2025",
+         "parsed": "2025-11-30"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Prepared individual tax returns and assisted with SMSF tax planning.",
+          "parsed": "Prepared individual tax returns and assisted with SMSF tax planning."
+         }
+        ],
+        "startDate": {
+         "raw": "Jul 2025",
+         "parsed": "2025-07-31"
+        }
+       }
+      },
+      {
+       "raw": "Platewise Co-Founder Co-Founder Feb 2026 Co-developed a food discovery app using Cursor AI with two friends, currently in early-stage user testing.",
+       "parsed": {
+        "organisation": {
+         "raw": "Platewise",
+         "parsed": "Platewise"
+        },
+        "experienceType": {
+         "raw": "Co-Founder",
+         "parsed": "Project"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Co-Founder",
+         "parsed": "Co-Founder"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": [
+         {
+          "raw": "Co-developed a food discovery app using Cursor AI with two friends, currently in early-stage user testing.",
+          "parsed": "Co-developed a food discovery app using Cursor AI with two friends, currently in early-stage user testing."
+         }
+        ],
+        "startDate": {
+         "raw": "Feb 2026",
+         "parsed": "2026-02-28"
+        }
+       }
+      },
+      {
+       "raw": "Campus Consulting Society Head of External Relations Head of External Relations Nov 2025 Led a five-person team to grow client sourcing from four to six consulting engagements per semester through outreach, scoping meetings, and proposal development. Founded an alumni initiative connecting committee members with past members for coffee chats and career guidance.",
+       "parsed": {
+        "organisation": {
+         "raw": "Campus Consulting Society",
+         "parsed": "Campus Consulting Society"
+        },
+        "experienceType": {
+         "raw": "Head of External Relations",
+         "parsed": "Leadership"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Head of External Relations",
+         "parsed": "Head of External Relations"
+        },
+        "isCurrent": null,
+        "endDate": null,
+        "bulletPoints": [
+         {
+          "raw": "Led a five-person team to grow client sourcing from four to six consulting engagements per semester through outreach, scoping meetings, and proposal development.",
+          "parsed": "Led a five-person team to grow client sourcing from four to six consulting engagements per semester through outreach, scoping meetings, and proposal development."
+         },
+         {
+          "raw": "Founded an alumni initiative connecting committee members with past members for coffee chats and career guidance.",
+          "parsed": "Founded an alumni initiative connecting committee members with past members for coffee chats and career guidance."
+         }
+        ],
+        "startDate": {
+         "raw": "Nov 2025",
+         "parsed": "2025-11-30"
+        }
+       }
+      },
+      {
+       "raw": "Campus Consulting Society Project Consultant Project Consultant Jul 2025 Nov 2025 Modelled Social Return on Investment (SROI) for a youth advocacy organisation to quantify the social impact of their programs, designing monetary metrics and formulas, adjusting for drop-off, deadweight loss, and discounting. Developed data collection processes and identified key risks and costs, culminating in a client presentation. Awarded Best Individual Speaker and Best Project by industry judges.",
+       "parsed": {
+        "organisation": {
+         "raw": "Campus Consulting Society",
+         "parsed": "Campus Consulting Society"
+        },
+        "experienceType": {
+         "raw": "Project Consultant",
+         "parsed": "Project"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Project Consultant",
+         "parsed": "Project Consultant"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Nov 2025",
+         "parsed": "2025-11-30"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Modelled Social Return on Investment (SROI) for a youth advocacy organisation to quantify the social impact of their programs, designing monetary metrics and formulas, adjusting for drop-off, deadweight loss, and discounting.",
+          "parsed": "Modelled Social Return on Investment (SROI) for a youth advocacy organisation to quantify the social impact of their programs, designing monetary metrics and formulas, adjusting for drop-off, deadweight loss, and discounting."
+         },
+         {
+          "raw": "Developed data collection processes and identified key risks and costs, culminating in a client presentation.",
+          "parsed": "Developed data collection processes and identified key risks and costs, culminating in a client presentation."
+         },
+         {
+          "raw": "Awarded Best Individual Speaker and Best Project by industry judges.",
+          "parsed": "Awarded Best Individual Speaker and Best Project by industry judges."
+         }
+        ],
+        "startDate": {
+         "raw": "Jul 2025",
+         "parsed": "2025-07-31"
+        }
+       }
+      },
+      {
+       "raw": "Eastbrook Business School Semester Exchange Student Semester Exchange Student Sep 2024 Dec 2024 Completed an LBO model for a SaaS business, including quality of earnings adjustments, a tiered subscription revenue build, and multi-tranche debt structuring.",
+       "parsed": {
+        "organisation": {
+         "raw": "Eastbrook Business School",
+         "parsed": "Eastbrook Business School"
+        },
+        "experienceType": {
+         "raw": "Semester Exchange Student",
+         "parsed": "Freelance"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Semester Exchange Student",
+         "parsed": "Semester Exchange Student"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Dec 2024",
+         "parsed": "2024-12-31"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Completed an LBO model for a SaaS business, including quality of earnings adjustments, a tiered subscription revenue build, and multi-tranche debt structuring.",
+          "parsed": "Completed an LBO model for a SaaS business, including quality of earnings adjustments, a tiered subscription revenue build, and multi-tranche debt structuring."
+         }
+        ],
+        "startDate": {
+         "raw": "Sep 2024",
+         "parsed": "2024-09-30"
+        }
+       }
+      },
+      {
+       "raw": "Corner Bean Cafe Front of House Staff Front of House Staff Aug 2023 Mar 2024",
+       "parsed": {
+        "organisation": {
+         "raw": "Corner Bean Cafe",
+         "parsed": "Corner Bean Cafe"
+        },
+        "experienceType": {
+         "raw": "Front of House Staff",
+         "parsed": "Part-time"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Front of House Staff",
+         "parsed": "Front of House Staff"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Mar 2024",
+         "parsed": "2024-03-31"
+        },
+        "bulletPoints": null,
+        "startDate": {
+         "raw": "Aug 2023",
+         "parsed": "2023-08-31"
+        }
+       }
+      },
+      {
+       "raw": "Brightpath Tuition Centre Maths Tutor Maths Tutor Apr 2021 Aug 2021",
+       "parsed": {
+        "organisation": {
+         "raw": "Brightpath Tuition Centre",
+         "parsed": "Brightpath Tuition Centre"
+        },
+        "experienceType": {
+         "raw": "Maths Tutor",
+         "parsed": "Part-time"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Maths Tutor",
+         "parsed": "Maths Tutor"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Aug 2021",
+         "parsed": "2021-08-31"
+        },
+        "bulletPoints": null,
+        "startDate": {
+         "raw": "Apr 2021",
+         "parsed": "2021-04-30"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "languages": null,
+  "certifications": null,
+  "rawText": "Bruce Wayne Melbourne 3000 | [email removed] | [phone removed] EDUCATION Northbridge University 2023 - 2026 Bachelor of Commerce | Finance and Economics - Mathematics Pathway | WAM: 80.512 (First Class Honours) Hartwell Grammar School ATAR: 97.[phone removed] PROFESSIONAL EXPERIENCE Meridian Advisory Incoming Graduate Consultant Feb 2027 Ridgeline Capital Investment Intern Mar 2026 - May 2026 • Produced an equity write-up on a multinational consumer goods company, analysing product category growth, revenue seasonality, and the regulatory environment, and examining P&L, capital structure, and valuation metrics. • Conducted comparative research on early-stage mineral exploration companies, assessing discovery progress, resource grade, flow rates, and resource estimates against limited and inconsistent public information. • Drafted investor materials, including investment summaries and a presentation outlining an IPO participation opportunity. • Prepared daily trade blotters and updated the portfolio position statement, recording executed transactions, updating market prices, and monitoring daily and monthly fund performance. State Treasury Office Budget Strategy Intern Dec 2025 - Feb 2026 • Conducted comparative analyses of Allied Health Professional (AHP) enterprise agreements across states and the private sector, comparing wages and allowances, and built a classification framework to inform upcoming wage negotiations. • Modelled AHP workforce composition by profession, examining cross-sector and interstate workforce movements, and assessed overtime expenditure to determine financial exposure. • Analysed CPI and WPI movements to assess inflation impact, presenting findings on workforce demands and allowance restructuring opportunities to executive directors. Lim & Carter Chartered Accountants Intern Jul 2025 - Nov 2025 EXTRACURRICULARS Platewise Co-Founder Feb 2026 - Present • Co-developed a food discovery app using Cursor AI with two friends, currently in early-stage user testing. Campus Consulting Society Head of External Relations Nov 2025 - Present • Led a five-person team to grow client sourcing from four to six consulting engagements per semester through outreach, scoping meetings, and proposal development. • Founded an alumni initiative connecting committee members with past members for coffee chats and career guidance. Campus Consulting Society Project Consultant Jul 2025 - Nov 2025 • Modelled Social Return on Investment (SROI) for a youth advocacy organisation to quantify the social impact of their programs, designing monetary metrics and formulas, adjusting for drop-off, deadweight loss, and discounting. • Developed data collection processes and identified key risks and costs, culminating in a client presentation. • Awarded Best Individual Speaker and Best Project by industry judges. Eastbrook Business School Semester Exchange Student Sep 2024 - Dec 2024 • Completed an LBO model for a SaaS business, including quality of earnings adjustments, a tiered subscription revenue build, and multi-tranche debt structuring. ADDITIONAL EXPERIENCE Corner Bean Cafe Front of House Staff Brightpath Tuition Centre Maths Tutor Aug 2023 - Mar 2024 Apr 2021 - Aug 2021 SKILLS & INTERESTS Computer: Python, R, Microsoft 365 Interests: Food Reviewing, Cycling, Photography, Badminton, Tennis • Prepared individual tax returns and assisted with SMSF tax planning."
+ }
+}

@@ -1,0 +1,371 @@
+{
+ "data": {
+  "education": [
+   {
+    "raw": "Riverside University Mar 2023 Jun 2027 Bachelor of Science Major in Applied Mathematics Minor in Finance Bachelor of Science Lakeshore College Jan 2026 Jun 2026 Exchange Program Exchange Program Kingsford College Mar 2017 Nov 2022 Victorian Certificate of Education Victorian Certificate of Education ATAR: 94.60",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Riverside University Mar 2023 Jun 2027 Bachelor of Science Major in Applied Mathematics Minor in Finance Bachelor of Science",
+       "parsed": {
+        "location": null,
+        "institution": {
+         "raw": "Riverside University",
+         "parsed": "Riverside University"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": null,
+        "qualificationName": {
+         "raw": "Bachelor of Science",
+         "parsed": "Bachelor of Science"
+        },
+        "startDate": {
+         "raw": "Mar 2023",
+         "parsed": "2023-03-31"
+        },
+        "educationType": {
+         "raw": "Bachelor of Science",
+         "parsed": "Bachelor"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": {
+         "raw": "Major in Applied Mathematics Minor in Finance",
+         "parsed": "Major in Applied Mathematics Minor in Finance"
+        },
+        "endDate": {
+         "raw": "Jun 2027",
+         "parsed": "2027-06-30"
+        }
+       }
+      },
+      {
+       "raw": "Lakeshore College Jan 2026 Jun 2026 Exchange Program Exchange Program",
+       "parsed": {
+        "location": null,
+        "institution": {
+         "raw": "Lakeshore College",
+         "parsed": "Lakeshore College"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": null,
+        "qualificationName": {
+         "raw": "Exchange Program",
+         "parsed": "Exchange Program"
+        },
+        "startDate": {
+         "raw": "Jan 2026",
+         "parsed": "2026-01-31"
+        },
+        "educationType": {
+         "raw": "Exchange Program",
+         "parsed": "Exchange"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "Jun 2026",
+         "parsed": "2026-06-30"
+        }
+       }
+      },
+      {
+       "raw": "Kingsford College Mar 2017 Nov 2022 Victorian Certificate of Education Victorian Certificate of Education ATAR: 94.60",
+       "parsed": {
+        "location": null,
+        "institution": {
+         "raw": "Kingsford College",
+         "parsed": "Kingsford College"
+        },
+        "relevantCoursework": null,
+        "isCurrent": null,
+        "gradeOrScore": {
+         "raw": "ATAR: 94.60",
+         "parsed": "ATAR: 94.60"
+        },
+        "qualificationName": {
+         "raw": "Victorian Certificate of Education",
+         "parsed": "Victorian Certificate of Education"
+        },
+        "startDate": {
+         "raw": "Mar 2017",
+         "parsed": "2017-03-31"
+        },
+        "educationType": {
+         "raw": "Victorian Certificate of Education",
+         "parsed": "High School"
+        },
+        "awardsAndHonours": null,
+        "majorOrSpecialisation": null,
+        "endDate": {
+         "raw": "Nov 2022",
+         "parsed": "2022-11-30"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "technicalSkills": [
+   {
+    "raw": "Python,",
+    "parsed": "Python,"
+   },
+   {
+    "raw": "MATLAB,",
+    "parsed": "MATLAB,"
+   },
+   {
+    "raw": "R,",
+    "parsed": "R,"
+   },
+   {
+    "raw": "C++,",
+    "parsed": "C++,"
+   }
+  ],
+  "softSkills": null,
+  "softwareAndTools": [
+   {
+    "raw": "Excel,",
+    "parsed": "Excel,"
+   },
+   {
+    "raw": "PowerPoint",
+    "parsed": "PowerPoint"
+   }
+  ],
+  "fullName": {
+   "raw": "ANTHONY EDWARDS",
+   "parsed": "ANTHONY EDWARDS"
+  },
+  "experience": [
+   {
+    "raw": "Clearpath Technologies Jun 2026 Jul 2026 Corporate Development Analyst Intern Corporate Development Analyst Intern Prepared investment decks for the company's seed round, covering market opportunity, competitive positioning and growth strategy for prospective investors Conducted market research across the regtech industry, benchmarking competitors on product features, pricing and target markets to identify competitive advantages Developed case studies on comparable SaaS companies, analysing their business models and scaling paths to inform go to market strategy Wild Wonders Education Pty Ltd Sep 2023 Mar 2025 Event Project Coordinator Event Project Coordinator Delivered 60+ nature education programs at private events, aged care homes and kindergartens Managed large groups of attendees, overseeing setup, live animal handling and safety procedures Recruited and trained new staff to deliver programs independently Stride Footwear Feb 2022 Nov 2022 Assistant Store Manager Assistant Store Manager Supervised store operations in the manager's absence, including opening, closing and cash handling Inspected incoming shipments, processed returns for defective stock and organised warehouse inventory Student Consulting Network Feb 2025 Present Project Manager & Events Officer Project Manager & Events Officer Built an SROI framework to quantify the social value of a client's program for sponsorship applications Advised a not for profit on restructuring its cost base and funding model, alongside recruitment and retention strategy Led a team of 5 consultants, managing deliverables and timelines through to the final presentation Venture Society Feb 2025 Nov 2025 Events Director & Human Resources Officer Events Director & Human Resources Officer Organised the club's flagship startup pitch event, securing judges and managing catering and networking Implemented performance reviews and feedback systems to improve engagement and accountability Obtained university approval for events, completing compliance checks and assessing legal obligations",
+    "parsed": {
+     "rows": [
+      {
+       "raw": "Clearpath Technologies Jun 2026 Jul 2026 Corporate Development Analyst Intern Corporate Development Analyst Intern Prepared investment decks for the company's seed round, covering market opportunity, competitive positioning and growth strategy for prospective investors Conducted market research across the regtech industry, benchmarking competitors on product features, pricing and target markets to identify competitive advantages Developed case studies on comparable SaaS companies, analysing their business models and scaling paths to inform go to market strategy",
+       "parsed": {
+        "organisation": {
+         "raw": "Clearpath Technologies",
+         "parsed": "Clearpath Technologies"
+        },
+        "experienceType": {
+         "raw": "Corporate Development Analyst Intern",
+         "parsed": "Internship"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Corporate Development Analyst Intern",
+         "parsed": "Corporate Development Analyst Intern"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Jul 2026",
+         "parsed": "2026-07-31"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Prepared investment decks for the company's seed round, covering market opportunity, competitive positioning and growth strategy for prospective investors",
+          "parsed": "Prepared investment decks for the company's seed round, covering market opportunity, competitive positioning and growth strategy for prospective investors"
+         },
+         {
+          "raw": "Conducted market research across the regtech industry, benchmarking competitors on product features, pricing and target markets to identify competitive advantages",
+          "parsed": "Conducted market research across the regtech industry, benchmarking competitors on product features, pricing and target markets to identify competitive advantages"
+         },
+         {
+          "raw": "Developed case studies on comparable SaaS companies, analysing their business models and scaling paths to inform go to market strategy",
+          "parsed": "Developed case studies on comparable SaaS companies, analysing their business models and scaling paths to inform go to market strategy"
+         }
+        ],
+        "startDate": {
+         "raw": "Jun 2026",
+         "parsed": "2026-06-30"
+        }
+       }
+      },
+      {
+       "raw": "Wild Wonders Education Pty Ltd Sep 2023 Mar 2025 Event Project Coordinator Event Project Coordinator Delivered 60+ nature education programs at private events, aged care homes and kindergartens Managed large groups of attendees, overseeing setup, live animal handling and safety procedures Recruited and trained new staff to deliver programs independently",
+       "parsed": {
+        "organisation": {
+         "raw": "Wild Wonders Education Pty Ltd",
+         "parsed": "Wild Wonders Education Pty Ltd"
+        },
+        "experienceType": {
+         "raw": "Event Project Coordinator",
+         "parsed": "Part-time"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Event Project Coordinator",
+         "parsed": "Event Project Coordinator"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Mar 2025",
+         "parsed": "2025-03-31"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Delivered 60+ nature education programs at private events, aged care homes and kindergartens",
+          "parsed": "Delivered 60+ nature education programs at private events, aged care homes and kindergartens"
+         },
+         {
+          "raw": "Managed large groups of attendees, overseeing setup, live animal handling and safety procedures",
+          "parsed": "Managed large groups of attendees, overseeing setup, live animal handling and safety procedures"
+         },
+         {
+          "raw": "Recruited and trained new staff to deliver programs independently",
+          "parsed": "Recruited and trained new staff to deliver programs independently"
+         }
+        ],
+        "startDate": {
+         "raw": "Sep 2023",
+         "parsed": "2023-09-30"
+        }
+       }
+      },
+      {
+       "raw": "Stride Footwear Feb 2022 Nov 2022 Assistant Store Manager Assistant Store Manager Supervised store operations in the manager's absence, including opening, closing and cash handling Inspected incoming shipments, processed returns for defective stock and organised warehouse inventory",
+       "parsed": {
+        "organisation": {
+         "raw": "Stride Footwear",
+         "parsed": "Stride Footwear"
+        },
+        "experienceType": {
+         "raw": "Assistant Store Manager",
+         "parsed": "Part-time"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Assistant Store Manager",
+         "parsed": "Assistant Store Manager"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Nov 2022",
+         "parsed": "2022-11-30"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Supervised store operations in the manager's absence, including opening, closing and cash handling",
+          "parsed": "Supervised store operations in the manager's absence, including opening, closing and cash handling"
+         },
+         {
+          "raw": "Inspected incoming shipments, processed returns for defective stock and organised warehouse inventory",
+          "parsed": "Inspected incoming shipments, processed returns for defective stock and organised warehouse inventory"
+         }
+        ],
+        "startDate": {
+         "raw": "Feb 2022",
+         "parsed": "2022-02-28"
+        }
+       }
+      },
+      {
+       "raw": "Student Consulting Network Feb 2025 Present Project Manager & Events Officer Project Manager & Events Officer Built an SROI framework to quantify the social value of a client's program for sponsorship applications Advised a not for profit on restructuring its cost base and funding model, alongside recruitment and retention strategy Led a team of 5 consultants, managing deliverables and timelines through to the final presentation",
+       "parsed": {
+        "organisation": {
+         "raw": "Student Consulting Network",
+         "parsed": "Student Consulting Network"
+        },
+        "experienceType": {
+         "raw": "Project Manager & Events Officer",
+         "parsed": "Leadership"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Project Manager & Events Officer",
+         "parsed": "Project Manager & Events Officer"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Present",
+         "parsed": "2026-11-16"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Built an SROI framework to quantify the social value of a client's program for sponsorship applications",
+          "parsed": "Built an SROI framework to quantify the social value of a client's program for sponsorship applications"
+         },
+         {
+          "raw": "Advised a not for profit on restructuring its cost base and funding model, alongside recruitment and retention strategy",
+          "parsed": "Advised a not for profit on restructuring its cost base and funding model, alongside recruitment and retention strategy"
+         },
+         {
+          "raw": "Led a team of 5 consultants, managing deliverables and timelines through to the final presentation",
+          "parsed": "Led a team of 5 consultants, managing deliverables and timelines through to the final presentation"
+         }
+        ],
+        "startDate": {
+         "raw": "Feb 2025",
+         "parsed": "2025-02-28"
+        }
+       }
+      },
+      {
+       "raw": "Venture Society Feb 2025 Nov 2025 Events Director & Human Resources Officer Events Director & Human Resources Officer Organised the club's flagship startup pitch event, securing judges and managing catering and networking Implemented performance reviews and feedback systems to improve engagement and accountability Obtained university approval for events, completing compliance checks and assessing legal obligations",
+       "parsed": {
+        "organisation": {
+         "raw": "Venture Society",
+         "parsed": "Venture Society"
+        },
+        "experienceType": {
+         "raw": "Events Director & Human Resources Officer",
+         "parsed": "Leadership"
+        },
+        "location": null,
+        "roleTitle": {
+         "raw": "Events Director & Human Resources Officer",
+         "parsed": "Events Director & Human Resources Officer"
+        },
+        "isCurrent": null,
+        "endDate": {
+         "raw": "Nov 2025",
+         "parsed": "2025-11-30"
+        },
+        "bulletPoints": [
+         {
+          "raw": "Organised the club's flagship startup pitch event, securing judges and managing catering and networking",
+          "parsed": "Organised the club's flagship startup pitch event, securing judges and managing catering and networking"
+         },
+         {
+          "raw": "Implemented performance reviews and feedback systems to improve engagement and accountability",
+          "parsed": "Implemented performance reviews and feedback systems to improve engagement and accountability"
+         },
+         {
+          "raw": "Obtained university approval for events, completing compliance checks and assessing legal obligations",
+          "parsed": "Obtained university approval for events, completing compliance checks and assessing legal obligations"
+         }
+        ],
+        "startDate": {
+         "raw": "Feb 2025",
+         "parsed": "2025-02-28"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "languages": [
+   {
+    "raw": "Mandarin",
+    "parsed": "Mandarin"
+   },
+   {
+    "raw": "Malay,",
+    "parsed": "Malay,"
+   },
+   {
+    "raw": "English,",
+    "parsed": "English,"
+   }
+  ],
+  "certifications": null,
+  "rawText": "ANTHONY EDWARDS [phone removed] | [email removed] EDUCATION Riverside University Bachelor of Science - Major in Applied Mathematics - Minor in Finance Jan 2026 - Jun 2026 Mar 2017 - Nov 2022 WORK EXPERIENCE Clearpath Technologies Jun 2026 - Jul 2026 Corporate Development Analyst Intern - Prepared investment decks for the company's seed round, covering market opportunity, competitive positioning and growth strategy for prospective investors - Conducted market research across the regtech industry, benchmarking competitors on product features, pricing and target markets to identify competitive advantages - Developed case studies on comparable SaaS companies, analysing their business models and scaling paths to inform go to market strategy Wild Wonders Education Pty Ltd Event Project Coordinator Sep 2023 - Mar 2025 - Delivered 60+ nature education programs at private events, aged care homes and kindergartens - Managed large groups of attendees, overseeing setup, live animal handling and safety procedures - Recruited and trained new staff to deliver programs independently Stride Footwear Feb 2022 - Nov 2022 Assistant Store Manager - Supervised store operations in the manager's absence, including opening, closing and cash handling - Inspected incoming shipments, processed returns for defective stock and organised warehouse inventory LEADERSHIP ROLES & EXTRACURRICULAR Student Consulting Network Feb 2025 - Present Project Manager & Events Officer - Built an SROI framework to quantify the social value of a client's program for sponsorship applications - Advised a not for profit on restructuring its cost base and funding model, alongside recruitment and retention strategy - Led a team of 5 consultants, managing deliverables and timelines through to the final presentation Venture Society Feb 2025 - Nov 2025 Events Director & Human Resources Officer - Organised the club's flagship startup pitch event, securing judges and managing catering and networking - Implemented performance reviews and feedback systems to improve engagement and accountability - Obtained university approval for events, completing compliance checks and assessing legal obligations ADDITIONAL Languages: English, Malay, Mandarin Technical Skills: MATLAB, R, Python, C++, Excel, PowerPoint Coursework: Derivatives, Investments, Stochastic Modelling, Numerical Methods & Scientific Computing Mar 2023 - Jun 2027 Lakeshore College Exchange Program Kingsford College Victorian Certificate of Education ATAR: 94.60 -"
+ }
+}

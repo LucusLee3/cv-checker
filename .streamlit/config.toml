@@ -1,0 +1,12 @@
+[server]
+# Reject uploads over 5 MB before they reach the app
+maxUploadSize = 5
+
+[theme]
+# Affinda-style palette: deep green + white, with a gold accent (set in app.py CSS)
+base = "light"
+primaryColor = "#14343b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f5"
+textColor = "#14343b"
+font = "sans serif"

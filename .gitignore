@@ -1,0 +1,19 @@
+# Secrets: never commit
+.streamlit/secrets.toml
+
+# Local test data (full Affinda results with contact details).
+# The cleaned copies in demo_public/ ARE committed so demo mode works when deployed.
+sample_response.json
+sample_validation_results.json
+demo_resumes/
+test_cv.pdf
+test_cv.pdf.pdf
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.claude/
